@@ -13,6 +13,7 @@
 		B794D2E22BD4330B00EF4A78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B794D2E02BD4330B00EF4A78 /* Main.storyboard */; };
 		B794D2E42BD4330E00EF4A78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B794D2E32BD4330E00EF4A78 /* Assets.xcassets */; };
 		B794D2E72BD4330E00EF4A78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B794D2E52BD4330E00EF4A78 /* LaunchScreen.storyboard */; };
+		B794D2EF2BD4390700EF4A78 /* OIG2.L9uMrrIOKH2bXT4K7400.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B794D2EE2BD4390700EF4A78 /* OIG2.L9uMrrIOKH2bXT4K7400.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B794D2E32BD4330E00EF4A78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B794D2E62BD4330E00EF4A78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B794D2E82BD4330E00EF4A78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B794D2EE2BD4390700EF4A78 /* OIG2.L9uMrrIOKH2bXT4K7400.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OIG2.L9uMrrIOKH2bXT4K7400.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				B794D2DE2BD4330B00EF4A78 /* ViewController.swift */,
 				B794D2E02BD4330B00EF4A78 /* Main.storyboard */,
 				B794D2E32BD4330E00EF4A78 /* Assets.xcassets */,
+				B794D2EE2BD4390700EF4A78 /* OIG2.L9uMrrIOKH2bXT4K7400.jpeg */,
 				B794D2E52BD4330E00EF4A78 /* LaunchScreen.storyboard */,
 				B794D2E82BD4330E00EF4A78 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B794D2E72BD4330E00EF4A78 /* LaunchScreen.storyboard in Resources */,
+				B794D2EF2BD4390700EF4A78 /* OIG2.L9uMrrIOKH2bXT4K7400.jpeg in Resources */,
 				B794D2E42BD4330E00EF4A78 /* Assets.xcassets in Resources */,
 				B794D2E22BD4330B00EF4A78 /* Main.storyboard in Resources */,
 			);
